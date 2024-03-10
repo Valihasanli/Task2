@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\task2\hasil\hasil\bin\Debug\net8.0\hasil.exe
+C:\Users\User\Desktop\task2\hasil\hasil\bin\Debug\net8.0\hasil.deps.json
+C:\Users\User\Desktop\task2\hasil\hasil\bin\Debug\net8.0\hasil.runtimeconfig.json
+C:\Users\User\Desktop\task2\hasil\hasil\bin\Debug\net8.0\hasil.dll
+C:\Users\User\Desktop\task2\hasil\hasil\bin\Debug\net8.0\hasil.pdb
+C:\Users\User\Desktop\task2\hasil\hasil\obj\Debug\net8.0\hasil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\task2\hasil\hasil\obj\Debug\net8.0\hasil.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\task2\hasil\hasil\obj\Debug\net8.0\hasil.AssemblyInfo.cs
+C:\Users\User\Desktop\task2\hasil\hasil\obj\Debug\net8.0\hasil.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\task2\hasil\hasil\obj\Debug\net8.0\hasil.dll
+C:\Users\User\Desktop\task2\hasil\hasil\obj\Debug\net8.0\refint\hasil.dll
+C:\Users\User\Desktop\task2\hasil\hasil\obj\Debug\net8.0\hasil.pdb
+C:\Users\User\Desktop\task2\hasil\hasil\obj\Debug\net8.0\hasil.genruntimeconfig.cache
+C:\Users\User\Desktop\task2\hasil\hasil\obj\Debug\net8.0\ref\hasil.dll

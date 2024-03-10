@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\task2\polindrom\polindrom\bin\Debug\net8.0\polindrom.exe
+C:\Users\User\Desktop\task2\polindrom\polindrom\bin\Debug\net8.0\polindrom.deps.json
+C:\Users\User\Desktop\task2\polindrom\polindrom\bin\Debug\net8.0\polindrom.runtimeconfig.json
+C:\Users\User\Desktop\task2\polindrom\polindrom\bin\Debug\net8.0\polindrom.dll
+C:\Users\User\Desktop\task2\polindrom\polindrom\bin\Debug\net8.0\polindrom.pdb
+C:\Users\User\Desktop\task2\polindrom\polindrom\obj\Debug\net8.0\polindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\task2\polindrom\polindrom\obj\Debug\net8.0\polindrom.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\task2\polindrom\polindrom\obj\Debug\net8.0\polindrom.AssemblyInfo.cs
+C:\Users\User\Desktop\task2\polindrom\polindrom\obj\Debug\net8.0\polindrom.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\task2\polindrom\polindrom\obj\Debug\net8.0\polindrom.dll
+C:\Users\User\Desktop\task2\polindrom\polindrom\obj\Debug\net8.0\refint\polindrom.dll
+C:\Users\User\Desktop\task2\polindrom\polindrom\obj\Debug\net8.0\polindrom.pdb
+C:\Users\User\Desktop\task2\polindrom\polindrom\obj\Debug\net8.0\polindrom.genruntimeconfig.cache
+C:\Users\User\Desktop\task2\polindrom\polindrom\obj\Debug\net8.0\ref\polindrom.dll

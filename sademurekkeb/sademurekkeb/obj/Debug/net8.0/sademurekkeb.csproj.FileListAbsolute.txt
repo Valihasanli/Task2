@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\task2\sademurekkeb\sademurekkeb\bin\Debug\net8.0\sademurekkeb.exe
+C:\Users\User\Desktop\task2\sademurekkeb\sademurekkeb\bin\Debug\net8.0\sademurekkeb.deps.json
+C:\Users\User\Desktop\task2\sademurekkeb\sademurekkeb\bin\Debug\net8.0\sademurekkeb.runtimeconfig.json
+C:\Users\User\Desktop\task2\sademurekkeb\sademurekkeb\bin\Debug\net8.0\sademurekkeb.dll
+C:\Users\User\Desktop\task2\sademurekkeb\sademurekkeb\bin\Debug\net8.0\sademurekkeb.pdb
+C:\Users\User\Desktop\task2\sademurekkeb\sademurekkeb\obj\Debug\net8.0\sademurekkeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\task2\sademurekkeb\sademurekkeb\obj\Debug\net8.0\sademurekkeb.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\task2\sademurekkeb\sademurekkeb\obj\Debug\net8.0\sademurekkeb.AssemblyInfo.cs
+C:\Users\User\Desktop\task2\sademurekkeb\sademurekkeb\obj\Debug\net8.0\sademurekkeb.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\task2\sademurekkeb\sademurekkeb\obj\Debug\net8.0\sademurekkeb.dll
+C:\Users\User\Desktop\task2\sademurekkeb\sademurekkeb\obj\Debug\net8.0\refint\sademurekkeb.dll
+C:\Users\User\Desktop\task2\sademurekkeb\sademurekkeb\obj\Debug\net8.0\sademurekkeb.pdb
+C:\Users\User\Desktop\task2\sademurekkeb\sademurekkeb\obj\Debug\net8.0\sademurekkeb.genruntimeconfig.cache
+C:\Users\User\Desktop\task2\sademurekkeb\sademurekkeb\obj\Debug\net8.0\ref\sademurekkeb.dll
